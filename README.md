@@ -1,1 +1,1 @@
-# Javascript-function
+# Javascript-function code
